@@ -614,6 +614,9 @@ footer .center-line {
         background-size: contain;
         top: -40px;
     }
+    html body footer .center-line {
+        opacity: 0.2;
+    }
 }
 
 * {
