@@ -593,6 +593,8 @@ footer .center-line {
 
     html body footer .wrapper {
         min-height: 525px;
+        border-left: 1px solid rgba(217, 223, 230, 0.2);
+        border-right: 1px solid rgba(217, 223, 230, 0.2);
     }
 
     html body footer .wrapper h2 {
